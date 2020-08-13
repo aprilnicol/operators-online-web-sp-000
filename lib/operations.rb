@@ -8,6 +8,6 @@ end
 
 
 
-def not_safe?(speed) ? true : false 
+def not_safe?(speed) ? true : false
 
 end
